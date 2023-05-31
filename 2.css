@@ -2,7 +2,7 @@
 /* Tất cả màu bên dưới bạn đều có thể thay đổi được */
 .thuTitle {
 	padding: 20px;
-	background-color: #2e1b3b;
+	background-color: #ff9595;
 	color: white;
 	font-family: 'Dancing Script', cursive;
 	font-size: 26pt;
@@ -15,7 +15,7 @@
 }
 
 .content {
-	background-color: #59b4c4;
+	background-color: #ffb2b2;
 }
 
 body {
