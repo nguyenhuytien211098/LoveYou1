@@ -35,6 +35,7 @@ body {
 }
 
 .layerMask2 {
+    background-image: url("./img/bgtinhyeu2.jpg");
     position: absolute;
     width: 100%;
     height: 100%;
@@ -92,8 +93,13 @@ span {
     display: none;
 }
 
-.crush {
-
+#crush {
+        width: 100%;
+    height: 37%;
+.close-layerMask2:hover {
+    color: #f4f4f4;
+}
+/* Bật lên nếu bạn mún thêm ảnh nền 
     background-image: url("./img/bgtinhyeu2.jpg");
     background-color: white;
     background-size: cover;
@@ -101,5 +107,6 @@ span {
     display: flex;
     align-items: center;
     position: relative;
+    */
 }
 
