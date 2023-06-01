@@ -26,7 +26,6 @@ body {
 }
 .layerMask {
     background-image: url("./img/bgtinhyeu2.jpg");
-       display: flex;
     align-items: center;
     position: relative;
     width: 100%;
