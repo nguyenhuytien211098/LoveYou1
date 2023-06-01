@@ -25,7 +25,7 @@ body {
     cursor: pointer;
 }
 .layerMask {
-    
+    background-image: url("./img/bgtinhyeu2.jpg");
     position: absolute;
     width: 100%;
     height: 100%;
